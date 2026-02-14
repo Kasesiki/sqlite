@@ -1,7 +1,7 @@
 package sqlite
 
 import (
-	tool "autotool"
+	tool "github.com/Xiaxiaobaii/autotool"
 	"database/sql"
 	"fmt"
 	"strings"
