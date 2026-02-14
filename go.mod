@@ -3,7 +3,7 @@ module github.com/Xiaxiaobaii/sqlite
 go 1.26rc1
 
 require (
-	github.com/Xiaxiaobaii/autotool v1.0.1
+	github.com/Xiaxiaobaii/autotool v1.0.2
 	github.com/mattn/go-sqlite3 v1.14.22
 )
 
