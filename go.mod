@@ -1,4 +1,4 @@
-module github.com/Xiaxiaobaii/sqlite
+module github.com/Kasesiki/sqlite
 
 go 1.26rc1
 
